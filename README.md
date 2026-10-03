@@ -2,7 +2,7 @@
 
 | Parametr | Szczegóły |
 | --- | --- |
-| **Termin oddania** | 27.10.2026, godz. 23:00 |
+| **Termin oddania** | 18.10.2026, godz. 23:00 |
 | **Suma punktów** | 10 pkt |
 | **Język / Platforma** | C# (.NET 8+) |
 | **Wymagane środowisko** | Visual Studio 2022 / VS Code (z C# Dev Kit) / JetBrains Rider |
